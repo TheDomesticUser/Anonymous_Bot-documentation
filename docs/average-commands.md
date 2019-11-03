@@ -1,6 +1,6 @@
 Prefix: !
 
-showprofile (userTag): Displays the specified user profile picture  
+showprofile (user tag): Displays the specified user profile picture  
 nerd: Displays a picture of a nerd  
 chink: Displays a picture of a chink  
 scary: Displays a scary picture  
